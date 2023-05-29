@@ -1,0 +1,6 @@
+{
+    "my-redshift-service-role": "arn:aws:iam::963396714903:role/my-redshift-service-role",
+    "s3_json_path": "s3://us-east-1-airflow20230519/log-data/log_json_path.json",
+    "s3_log_data": "s3://us-east-1-airflow20230519/log-data/2018/11/",
+    "s3_song_data": "s3://us-east-1-airflow20230519/song-data/A/A/"
+}
